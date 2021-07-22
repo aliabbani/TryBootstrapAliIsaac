@@ -11,14 +11,16 @@ Project: Try Bootstrap.
 [Live Demo Link] (https://aliabbani.github.io/TryBootstrapAliIsaac/)
  
 
-## Authors
+## Authors1
 
-Name: Ali Abbani
+- Name: Ali Abbani
 - GitHub: [@githubhandle](https://github.com/aliabbani)
 - Twitter: [@twitterhandle](https://twitter.com/aliabbani)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-abbani-8b6246150/)
 
-Name: Isaac Imaobong Samuel
+## Authors2
+
+- Name: Isaac Imaobong Samuel
 - GitHub: [@githubhandle](https://github.com/zieeco)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/isaac-imaobong-samuel-a4849b1b8/)
  
